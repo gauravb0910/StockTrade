@@ -1,0 +1,3 @@
+[submodule "StockTrade-Frontend"]
+	path = StockTrade-Frontend
+	url = https://github.com/gauravb0910/StockTrade-Frontend
